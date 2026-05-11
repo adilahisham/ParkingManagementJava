@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 78ee40ee18c20ed12a218d025ad153c21b1ea950 unknown <DELL@DESKTOP-2CIQOS0.(none)> 1770812748 +0800	branch: Created from HEAD
+78ee40ee18c20ed12a218d025ad153c21b1ea950 4b7b0885331024e99496c76c432aff589467cd8b adilahisham <nuradilahnorhisham@gmail.com> 1770813078 +0800	commit: New
+4b7b0885331024e99496c76c432aff589467cd8b bca78c0979e44b1c5180e312e0a28e29667726a3 adilahisham <nuradilahnorhisham@gmail.com> 1770822075 +0800	commit: Deleted
+bca78c0979e44b1c5180e312e0a28e29667726a3 75252173890c8a5ebdddf991c1f37983fe02574e adilahisham <nuradilahnorhisham@gmail.com> 1770865290 +0800	merge main: Fast-forward
+75252173890c8a5ebdddf991c1f37983fe02574e 0172758e4589cc532e0e8fdf8ba6c47ab3533a83 adilahisham <nuradilahnorhisham@gmail.com> 1770866600 +0800	merge main: Fast-forward
+0172758e4589cc532e0e8fdf8ba6c47ab3533a83 177fae93ee94aa7e6bdfd755065967f9ccf790af adilahisham <nuradilahnorhisham@gmail.com> 1770883818 +0800	pull origin main: Fast-forward
+177fae93ee94aa7e6bdfd755065967f9ccf790af f71343b14331167f7af60eecbe6564817a371cde adilahisham <nuradilahnorhisham@gmail.com> 1770887651 +0800	commit: Added Fine and Payment and etc
+f71343b14331167f7af60eecbe6564817a371cde c20b043583c753ca1c3990bb5da4eb77279d63c4 adilahisham <nuradilahnorhisham@gmail.com> 1770889695 +0800	commit: edited
+c20b043583c753ca1c3990bb5da4eb77279d63c4 5ee72eb143a3551cd884bd31a8a2450cc29a0d76 adilahisham <nuradilahnorhisham@gmail.com> 1770998393 +0800	merge main: Fast-forward
+5ee72eb143a3551cd884bd31a8a2450cc29a0d76 8c92abce108ba3587873ca04b954bb9e085bfa95 adilahisham <nuradilahnorhisham@gmail.com> 1771000978 +0800	commit: Added fine and Payment in Exit
+8c92abce108ba3587873ca04b954bb9e085bfa95 b630a27a521e20a6c06b703f6ae6ebc75ffa0d67 adilahisham <nuradilahnorhisham@gmail.com> 1771002116 +0800	commit: Added payment to UI
+b630a27a521e20a6c06b703f6ae6ebc75ffa0d67 9109db5af1828b71c2c9a8dc0d32fae9e9e41ce0 adilahisham <nuradilahnorhisham@gmail.com> 1771081312 +0800	commit: change
+9109db5af1828b71c2c9a8dc0d32fae9e9e41ce0 a3eb04b0dbe568310ddff50da7e4e2b1f9d4305d adilahisham <nuradilahnorhisham@gmail.com> 1771106550 +0800	commit (merge): Fixed Fine and Payment
+a3eb04b0dbe568310ddff50da7e4e2b1f9d4305d 11bc51af746380b8e0be3991ed9575cf03880b19 adilahisham <nuradilahnorhisham@gmail.com> 1771136004 +0800	merge main: Fast-forward
+11bc51af746380b8e0be3991ed9575cf03880b19 fcb42f2aee4c1de6f26625a04ca20225df099187 adilahisham <nuradilahnorhisham@gmail.com> 1771163661 +0800	commit: fix fine
+fcb42f2aee4c1de6f26625a04ca20225df099187 05421a5ce96e52e9c4c9f9685e7b36bebaa3cc07 adilahisham <nuradilahnorhisham@gmail.com> 1771169633 +0800	commit: fix seedParkingLot
+05421a5ce96e52e9c4c9f9685e7b36bebaa3cc07 eed27ca4ad5762c390984189e776fc9d0b71f244 adilahisham <nuradilahnorhisham@gmail.com> 1771217035 +0800	commit: fix hasHCcard
+eed27ca4ad5762c390984189e776fc9d0b71f244 fd9672a59dcd6f594ed36b90be9b004b32f47909 adilahisham <nuradilahnorhisham@gmail.com> 1771223922 +0800	commit: added staff
